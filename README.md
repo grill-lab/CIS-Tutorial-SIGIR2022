@@ -15,4 +15,4 @@ An open platform for multimodal structured WoZ experiments for information and t
 https://github.com/grill-lab/TaskMAD
 
 #### iCAsT:
-Link to slides and Colab notebook can be found at: https://github.com/grill-lab/Interactive-CAsT-Tutorial
+Link to Colab notebook can be found at: https://colab.research.google.com/drive/1OR4zzfbWHhGkGRvPWhsn-1za2o2YIT5N?usp=sharing
